@@ -5,10 +5,10 @@ while (true)
     int even_or_odd = Convert.ToInt32(Console.ReadLine());
     if (even_or_odd % 2 == 0)
     {
-        Console.WriteLine($"The Number {even_or_odd} is Even!")
+        Console.WriteLine($"The Number {even_or_odd} is Even!");
     }
     else
-    { 
-        Console.WriteLine($"The Number {even_or_odd} is Odd!")
+    {
+        Console.WriteLine($"The Number {even_or_odd} is Odd!");
     }
 }
