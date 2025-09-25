@@ -1,0 +1,6 @@
+loop while true
+    input integer
+    if integer mod 2 is 0
+        print is even
+    else
+        print is odd
